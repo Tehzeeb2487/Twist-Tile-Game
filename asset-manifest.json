@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tehzeeb2487/Twist-Tile-Game/static/css/main.97b7b937.css",
+    "main.js": "/Tehzeeb2487/Twist-Tile-Game/static/js/main.58bcf62f.js",
+    "static/js/453.96909b04.chunk.js": "/Tehzeeb2487/Twist-Tile-Game/static/js/453.96909b04.chunk.js",
+    "index.html": "/Tehzeeb2487/Twist-Tile-Game/index.html",
+    "main.97b7b937.css.map": "/Tehzeeb2487/Twist-Tile-Game/static/css/main.97b7b937.css.map",
+    "main.58bcf62f.js.map": "/Tehzeeb2487/Twist-Tile-Game/static/js/main.58bcf62f.js.map",
+    "453.96909b04.chunk.js.map": "/Tehzeeb2487/Twist-Tile-Game/static/js/453.96909b04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97b7b937.css",
+    "static/js/main.58bcf62f.js"
+  ]
+}
