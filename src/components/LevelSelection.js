@@ -35,13 +35,13 @@ const LevelSelection = () => {
         </h2>
       </center>
       <div className="level-buttons">
-        <button className="welcome-btn" onClick={() => navigate("/LevelOne")}>
+        <button className="welcome-btn" onClick={() => navigate("/Level1")}>
           <FaUnlock style={{paddingBottom: '5px', paddingRight: '5px' , fontSize: '22px'}}/>
           Level 1
         </button>
         <button 
           className={levelStatus.level1 ? "welcome-btn" : "unlock"} 
-          onClick={() => levelStatus.level1 && navigate("/LevelTwo")}
+          onClick={() => levelStatus.level1 && navigate("/Level2")}
           disabled={!levelStatus.level1}
         >
           {levelStatus.level1 ? 
@@ -52,7 +52,7 @@ const LevelSelection = () => {
         </button>
         <button 
           className={levelStatus.level2 ? "welcome-btn" : "unlock"} 
-          onClick={() => levelStatus.level2 && navigate("/LevelThree")}
+          onClick={() => levelStatus.level2 && navigate("/Level3")}
           disabled={!levelStatus.level2}
         >
           {levelStatus.level2 ? 
@@ -63,7 +63,7 @@ const LevelSelection = () => {
         </button>
         <button 
           className={levelStatus.level3 ? "welcome-btn" : "unlock"} 
-          onClick={() => levelStatus.level3 && navigate("/LevelFour")}
+          onClick={() => levelStatus.level3 && navigate("/Level4")}
           disabled={!levelStatus.level3}
         >
           {levelStatus.level3 ? 
@@ -74,7 +74,7 @@ const LevelSelection = () => {
         </button>
         <button 
           className={levelStatus.level4 ? "welcome-btn" : "unlock"} 
-          onClick={() => levelStatus.level4 && navigate("/LevelFive")}
+          onClick={() => levelStatus.level4 && navigate("/Level5")}
           disabled={!levelStatus.level4}
         >
           {levelStatus.level4 ? 

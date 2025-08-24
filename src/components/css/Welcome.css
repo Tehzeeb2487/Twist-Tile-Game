@@ -8,6 +8,13 @@
     font-family: Poppins, sans-serif;
 }
 
+.level-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
 .welcome-btn {
     background-color: #fff9c9;
     color: #78b17b;
