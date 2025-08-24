@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Welcome from "./components/Welcome";
 import LevelSelection from "./components/LevelSelection";
 import LevelOne from "./components/pages/LevelOne";
