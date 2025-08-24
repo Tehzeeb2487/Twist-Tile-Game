@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Twist-Tile-Game/static/css/main.a542bc39.css",
-    "main.js": "/Twist-Tile-Game/static/js/main.bf74d706.js",
-    "static/js/453.96909b04.chunk.js": "/Twist-Tile-Game/static/js/453.96909b04.chunk.js",
+    "main.js": "/Twist-Tile-Game/static/js/main.57a67a1a.js",
+    "static/js/453.04ec5b8f.chunk.js": "/Twist-Tile-Game/static/js/453.04ec5b8f.chunk.js",
     "index.html": "/Twist-Tile-Game/index.html",
     "main.a542bc39.css.map": "/Twist-Tile-Game/static/css/main.a542bc39.css.map",
-    "main.bf74d706.js.map": "/Twist-Tile-Game/static/js/main.bf74d706.js.map",
-    "453.96909b04.chunk.js.map": "/Twist-Tile-Game/static/js/453.96909b04.chunk.js.map"
+    "main.57a67a1a.js.map": "/Twist-Tile-Game/static/js/main.57a67a1a.js.map",
+    "453.04ec5b8f.chunk.js.map": "/Twist-Tile-Game/static/js/453.04ec5b8f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a542bc39.css",
-    "static/js/main.bf74d706.js"
+    "static/js/main.57a67a1a.js"
   ]
 }
